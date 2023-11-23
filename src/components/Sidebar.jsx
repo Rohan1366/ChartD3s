@@ -56,7 +56,7 @@ const Sidebar = () => {
       </div>
       <List style={{ marginTop: '2vh',paddingLeft:'20px',paddingRight:'20px' }}>
         {menuItems.map((item) => (
-          <Link to='/menupage' key={item.index} style={{ textDecoration: 'none', color: 'inherit',
+          <Link style={{ textDecoration: 'none', color: 'inherit',
           
           
            
