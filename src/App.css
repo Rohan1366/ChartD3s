@@ -1,0 +1,191 @@
+.main{
+/* border: 2px solid black; */
+height: 100%;
+}
+
+
+.main-div{
+  display: flex;
+  /* background-color: red; */
+  justify-content: space-between;
+  /* border: 2px solid blue; */
+}
+.right-div{
+  display: flex;
+  gap: 10px;
+}
+
+.second-bargraph{
+  display: flex;
+  gap:22vh;
+  
+  height: 6vh;
+  /* border: 2px solid green; */
+}
+.second-bargraph b{
+  margin-left: 2vh;
+  margin-top: 1vh;
+ 
+
+}
+.second-bargraph button{
+  background-color: rgb(232,238,253);
+  color: rgb(129,179,192);
+}
+.main-div1{
+  display: flex;
+  /* border: 2px solid orange; */
+  width: 50%;
+  justify-content: center;
+  text-align: center;
+align-items: center;
+/* border: 2 px solid black; */
+gap: 3%;
+/* background-color: red; */
+
+}
+.main-div1 div{
+  width: 50%;
+}
+
+/* .main-div div{
+  border: 2px solid black;
+} */
+.wavechart{
+  /* border: 2px solid black; */
+  margin-left: 7%;
+  align-items: center;
+  justify-content: center;
+
+}.upper-div{
+  height: 52vh;
+}
+
+
+
+.table{
+  width: 39%;
+  margin-right: 3vh;
+  background-color: white;
+  /* margin-right: 5%; */
+  border-radius:3%;
+  border: 2px solid white;
+  margin-bottom: 2%;
+  margin-top: 1%;
+
+
+}
+.forthdiv1{
+  height: 5vh;
+}
+
+.forthdiv1 b{
+  margin-left: 4%;
+  margin-top: 2%;
+}
+.data-table{
+  width: 50vh;
+  justify-content: center;
+  
+  
+}
+.main{
+  background-color: rgb(246,247,249);
+}
+
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  /* margin-left: 4vh; */
+  /* border: 1px solid red; */
+  height: 10%;
+}
+
+.label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+.third-div{
+  /* border: 8px solid purple; */
+  margin-left:8vh;
+  background-color: white;
+  border-radius: 3%;
+  border: '8px solid white';
+  margin-top: 0.5%;
+  height: 90%;
+  /* background-color: white; */
+}
+.checkbox {
+  width: 20px;
+  height: 20px;
+  margin-bottom: 2%;
+  border: 2px solid #333;
+  border-radius: 4px; /* Optional: To make the checkbox look rounded */
+  margin-right: 10px;
+}
+/* .transactions{
+  border: 2px solid black;
+} */
+
+
+.wavechart-div{
+  background-color: white;
+  display: flex;
+  height: 5vh;
+  align-items: center;
+
+gap: 20%;
+}
+
+.wavegraph-div2{
+  background-color: white;
+}
+.bargraph-lower-div{
+  width: 100%;
+padding-right: -14%;
+
+}.modal{
+  margin-left: 40%;
+  background-color: rgb(55, 112, 55);
+border-radius: 5%;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+.row-header {
+  font-weight: bold;
+}
+
+.forthdiv1 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+hr {
+  border: 1px solid #ddd;
+}
+
+/* Add any additional styling based on your design preferences */
